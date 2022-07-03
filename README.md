@@ -22,7 +22,7 @@
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-### Learning & Reading:
+### Reading & Learning:
 <p>I'm an avid reader and I try to read on a daily basis, usually first thing in the morning and the last thing before going to bed. Here's a list of my favourite books that shaped my thinking, beliefs and aspirations (in no particular order).
 </p>
 <p>
