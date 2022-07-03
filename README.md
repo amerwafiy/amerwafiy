@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/amerwafiy/amerwafiy/main/readme_header.png "Header")]
+![Header](https://raw.githubusercontent.com/amerwafiy/amerwafiy/main/readme_header.png "Header")
 ## Hi there! I'm Amer and welcome to my github page! 👋
 
 ### About Me:
