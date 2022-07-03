@@ -40,12 +40,14 @@
 <img src="https://www.independent.org/images/tirbookcovers/26/tir_26_3_11_deficit_400x621.jpg" width="100" height="150"/>
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569897778l/45894166.jpg" width="100" height="150"/>
 </p>
-<p> "Reading is more efficient when at rest. Audio is more efficient when in motion." - Naval Ravikant </p>
+> "Reading is more efficient when at rest. Audio is more efficient when in motion." 
+> > Naval Ravikant
 <p> Apart from reading, I also like listening to podcasts. I usually tune into them in between workouts and while driving. Here are some of my favourite shows.</p>
 <p>
 <img src="https://yt3.ggpht.com/ytc/AKedOLS6t6OUTSPyxXG9rRsmKhvVWvLNcL6dxJBCik8f=s900-c-k-c0x00ffffff-no-rj" width="200" height="200"/>
 <img src="https://i.scdn.co/image/ab6765630000ba8a563ebb538d297875b10114b7" width="200" height="200"/>
 <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/rogan-experience-juice-lili.jpg" width="200" height="200"/>
+<img src="https://i.scdn.co/image/ab6765630000ba8a233f95c70bf4beb9ad0fdfd9" width="200" height="200"/>
 <img src="https://www.httotw.com/favicon.ico" width="200" height="200"/>
 </p>
 
