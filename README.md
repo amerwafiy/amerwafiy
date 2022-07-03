@@ -6,6 +6,7 @@
 
 ### How to reach me:
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][email]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][linkedin]
 
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/amerwafiy/)
 
