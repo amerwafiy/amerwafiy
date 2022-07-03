@@ -25,7 +25,7 @@
 </p>
 
 ### Reading & Learning:
-<p>I'm an avid reader and I try to read on a daily basis, usually first thing in the morning and the last thing before going to bed. Here's a list of my favourite books that shaped my thinking, beliefs and aspirations.
+<p>I'm an avid reader and I try to read on a daily basis--usually first thing in the morning and the last thing before going to bed. Here's a list of my favourite books that shaped my thinking, beliefs and aspirations.
 </p>
 <p>
 <img src="https://kbimages1-a.akamaihd.net/ff04a48d-1910-4064-b052-5e7bb0601ebf/1200/1200/False/everybody-lies-1.jpg" width="100" height="150"/>
