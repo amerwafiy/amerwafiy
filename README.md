@@ -44,11 +44,11 @@
 > > Naval Ravikant
 <p> Apart from reading, I also like listening to podcasts. I usually tune into them in between workouts and while driving. Here are some of my favourite shows.</p>
 <p>
-<img src="https://yt3.ggpht.com/ytc/AKedOLS6t6OUTSPyxXG9rRsmKhvVWvLNcL6dxJBCik8f=s900-c-k-c0x00ffffff-no-rj" width="180" height="180"/>
-<img src="https://i.scdn.co/image/ab6765630000ba8a563ebb538d297875b10114b7" width="180" height="180"/>
-<img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/rogan-experience-juice-lili.jpg" width="180" height="180"/>
-<img src="https://i.scdn.co/image/ab6765630000ba8a233f95c70bf4beb9ad0fdfd9" width="180" height="180"/>
-<img src="https://www.httotw.com/favicon.ico" width="180" height="180"/>
+<img src="https://yt3.ggpht.com/ytc/AKedOLS6t6OUTSPyxXG9rRsmKhvVWvLNcL6dxJBCik8f=s900-c-k-c0x00ffffff-no-rj" width="185" height="185"/>
+<img src="https://i.scdn.co/image/ab6765630000ba8a563ebb538d297875b10114b7" width="185" height="185"/>
+<img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/rogan-experience-juice-lili.jpg" width="185" height="185"/>
+<img src="https://i.scdn.co/image/ab6765630000ba8a233f95c70bf4beb9ad0fdfd9" width="185" height="185"/>
+<img src="https://www.httotw.com/favicon.ico" width="185" height="185"/>
 </p>
 
 ### Reach Me:
