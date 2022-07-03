@@ -1,5 +1,5 @@
-<img alt="Banner" src="https://www.canva.com/design/DAFFXXya4Xc/-l_OWehBDk-5X1PuB1jW9g/edit?utm_content=DAFFXXya4Xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
-# Hi there! I'm Amer and welcome to my github page! 👋
+<img alt="Banner" src="https://www.canva.com/design/DAFFXXya4Xc/-l_OWehBDk-5X1PuB1jW9g/view?utm_content=DAFFXXya4Xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
+## Hi there! I'm Amer and welcome to my github page! 👋
 
 ### About Me:
 - Data Scientist with experiences in ML predictions, social media sentiment analyses, building web apps & automation system as well as developing analytics features for internal and external stakeholders.
