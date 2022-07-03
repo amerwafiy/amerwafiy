@@ -2,7 +2,7 @@
 
 ### About Me:
 - Data Scientist with experiences in ML predictions, social media sentiment analyses, building web apps & automation system as well as developing analytics features for internal and external stakeholders.
-- Graduated from The University of Auckland 🇳🇿 in Bachelor of Science (Data Science)
+- Graduated from The University of Auckland 🇳🇿 in Bachelor of Science (Data Science).
 
 ### Proud Achievements (to date):
 - Built a machine learning model that predicted the 2022 Johor State Election with 82% accuracy.
