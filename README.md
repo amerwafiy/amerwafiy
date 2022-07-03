@@ -43,13 +43,10 @@
 
 <figure class="quote">
   <blockquote>
-    Reading is more efficient when at rest. Audio is more efficient when in motion. - Naval Ravikant
+    "Reading is more efficient when at rest. Audio is more efficient when in motion." - Naval Ravikant
   </blockquote>
 </figure>
 
-
-> "Reading is more efficient when at rest. Audio is more efficient when in motion." 
-> > - Naval Ravikant
 
 <p> Apart from reading, I also like listening to podcasts. I usually tune into them in between workouts and while driving. Here are some of my favourite shows.</p>
 <p>
