@@ -27,7 +27,7 @@
 </p>
 <p>
 <img alt="Book1" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY475_.jpg" width="100"/>
-<img alt="Book2" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391813567l/15751404.jpg" width="100"/>
+<img alt="Book2" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391813567l/15751404.jpg" width="100" height="150"/>
 </p>
 
 ### Reach Me:
