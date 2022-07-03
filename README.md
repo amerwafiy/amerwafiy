@@ -40,6 +40,16 @@
 <img src="https://www.independent.org/images/tirbookcovers/26/tir_26_3_11_deficit_400x621.jpg" width="100" height="150"/>
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569897778l/45894166.jpg" width="100" height="150"/>
 </p>
+
+<figure class="quote">
+  <blockquote>
+    Reading is more efficient when at rest. Audio is more efficient when in motion.
+  </blockquote>
+  <figcaption>
+    &mdash; Naval Ravikant</figcaption>
+</figure>
+
+
 > "Reading is more efficient when at rest. Audio is more efficient when in motion." 
 > > Naval Ravikant
 <p> Apart from reading, I also like listening to podcasts. I usually tune into them in between workouts and while driving. Here are some of my favourite shows.</p>
