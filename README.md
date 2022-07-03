@@ -30,8 +30,7 @@
 <img src="http://cdn.shopify.com/s/files/1/0511/7575/1837/products/9781439199190.jpg?v=1612923204" width="100" height="150"/>
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391813567l/15751404.jpg" width="100" height="150"/>
 <img src="https://kbimages1-a.akamaihd.net/7165f0d7-a437-4313-8294-68cfcaf3d717/1200/1200/False/sapiens-5.jpg" width="100" height="150"/>
-<img src="https://d26olvxuieoyaa.cloudfront.net/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/u/humankind.jpg" width="100" height="150"/>
-<img src="https://d26olvxuieoyaa.cloudfront.net/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/h/u/humankind.jpg" width="100" height="150"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/71F+9Ktj3GL.jpg" width="100" height="150"/>
 <img src="https://litbooks.com.my/wp-content/uploads/2021/07/61peRlJRMLL.jpg" width="100" height="150"/>
 <img src="https://images-na.ssl-images-amazon.com/images/I/71uGp5GrqkL.jpg" width="100" height="150"/>
 </p>
