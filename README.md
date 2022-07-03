@@ -1,8 +1,14 @@
 ### Hi there! I'm Amer and welcome to my github page! 👋
 
-### About me:
+### About Me:
 - Data Scientist with experiences in ML predictions, social media sentiment analyses, building web apps & automation system as well as developing analytics features for internal and external stakeholders.
 - Graduated from The University of Auckland 🇳🇿 in Bachelor of Science (Data Science)
+
+### Proud Achievements (to date):
+- Built a machine learning model that predicted the 2022 Johor State Election with 82% accuracy.
+- Took own initiative in a building a performance monitoring system that increased the productivity of company's Call Centre department by at least 20%.
+- Extensive experience in solving real-world data science problems and presenting their solutions to the likes of Members of the Parliament, company directors and university professors.
+- Shorlisted as one of the finalists for Centre of Applied Data Science (CADS) Sunrise Award 2022 for top 25 data scientists under 25 in Southeast Asia.
 
 ### Technical Skills:
 <p>
@@ -16,7 +22,7 @@
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-### How to reach me:
+### Reach Me:
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][email]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
