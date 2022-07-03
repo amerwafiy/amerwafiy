@@ -22,6 +22,11 @@
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
+### Learning & Reading:
+<p>I'm an avid reader and I try to read on a daily basis, usually first thing in the morning and the last thing going to bed. Here's a list of my favourite books that shaped my thinking, beliefs and aspirations (in no particular order).
+<img alt="HTML" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY475_.jpg"/>
+</p>
+
 ### Reach Me:
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][email]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
