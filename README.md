@@ -38,6 +38,8 @@
 <img src="https://m.media-amazon.com/images/I/41s4xJZlEYL.jpg" width="100" height="150"/>
 <img src="https://images-na.ssl-images-amazon.com/images/I/71RoZkCMk1L.jpg" width="100" height="150"/>
 <img src="https://images-na.ssl-images-amazon.com/images/I/71uGp5GrqkL.jpg" width="100" height="150"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/81AdLep0svL.jpg" width="100" height="150"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/81oMQeXD1PL.jpg" width="100" height="150"/>
 <img src="https://www.independent.org/images/tirbookcovers/26/tir_26_3_11_deficit_400x621.jpg" width="100" height="150"/>
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569897778l/45894166.jpg" width="100" height="150"/>
 </p>
@@ -49,7 +51,7 @@
 </figure>
 
 
-<p> Apart from reading, I also like listening to podcasts. I usually tune into them in between workouts and while driving. Here are some of my favourite shows.</p>
+<p> Apart from reading, I also like listening to podcasts. I usually tune into them while driving and in between workouts. Here are some of my favourite shows.</p>
 <p>
 <img src="https://yt3.ggpht.com/ytc/AKedOLS6t6OUTSPyxXG9rRsmKhvVWvLNcL6dxJBCik8f=s900-c-k-c0x00ffffff-no-rj" width="160" height="160"/>
 <img src="https://i.scdn.co/image/ab6765630000ba8a563ebb538d297875b10114b7" width="160" height="160"/>
