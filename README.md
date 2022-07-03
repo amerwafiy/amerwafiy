@@ -26,8 +26,8 @@
 <p>I'm an avid reader and I try to read on a daily basis, usually first thing in the morning and the last thing going to bed. Here's a list of my favourite books that shaped my thinking, beliefs and aspirations (in no particular order).
 </p>
 <p>
-<img alt="Book1" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY475_.jpg" width="100"/>
-<img alt="Book2" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391813567l/15751404.jpg" width="100" height="170"/>
+<img alt="Book1" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY475_.jpg" width="100" height="150"/>
+<img alt="Book2" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391813567l/15751404.jpg" width="100" height="150"/>
 </p>
 
 ### Reach Me:
