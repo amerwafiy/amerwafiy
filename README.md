@@ -35,6 +35,7 @@
 <img src="https://kbimages1-a.akamaihd.net/7165f0d7-a437-4313-8294-68cfcaf3d717/1200/1200/False/sapiens-5.jpg" width="100" height="150"/>
 <img src="https://images-na.ssl-images-amazon.com/images/I/71F+9Ktj3GL.jpg" width="100" height="150"/>
 <img src="https://litbooks.com.my/wp-content/uploads/2021/07/61peRlJRMLL.jpg" width="100" height="150"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/71RoZkCMk1L.jpg" width="100" height="150"/>
 <img src="https://images-na.ssl-images-amazon.com/images/I/71uGp5GrqkL.jpg" width="100" height="150"/>
 <img src="https://www.independent.org/images/tirbookcovers/26/tir_26_3_11_deficit_400x621.jpg" width="100" height="150"/>
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569897778l/45894166.jpg" width="100" height="150"/>
