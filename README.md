@@ -1,4 +1,4 @@
-### Hi there! I'm Amer and welcome to my github page! 👋
+## Hi there! I'm Amer and welcome to my github page! 👋
 
 ### About Me:
 - Data Scientist with experiences in ML predictions, social media sentiment analyses, building web apps & automation system as well as developing analytics features for internal and external stakeholders.
