@@ -7,7 +7,7 @@
 ### Achievements (to date):
 - Built a machine learning model that predicted the 2022 Johor State Election with 82% accuracy.
 - Took own initiative in a building a performance monitoring system that increased the productivity of company's Call Centre department by at least 20%.
-- Extensive experience in solving real-world data science problems and presenting their solutions to the likes of Members of the Parliament, company directors and university professors.
+- Extensive experiences in solving real-world data science problems and presenting their solutions to the likes of Members of the Parliament, company directors and university professors.
 - Shorlisted as one of the finalists for Centre of Applied Data Science (CADS) Sunrise Award 2022 for top 25 data scientists under 25 in Southeast Asia.
 
 ### Technical Skills:
