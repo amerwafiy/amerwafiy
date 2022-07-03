@@ -1,4 +1,4 @@
-<img alt="Header" src="https://raw.githubusercontent.com/amerwafiy/amerwafiy/main/amer-wafiy.png"/>
+<img alt="Header" src="https://raw.githubusercontent.com/amerwafiy/amerwafiy/main/amer-banner.png"/>
 
 ## Hi there! I'm Amer and welcome to my github page! 👋
 
