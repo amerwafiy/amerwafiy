@@ -45,7 +45,7 @@
 <p>
 <img src="https://yt3.ggpht.com/ytc/AKedOLS6t6OUTSPyxXG9rRsmKhvVWvLNcL6dxJBCik8f=s900-c-k-c0x00ffffff-no-rj" width="200" height="200"/>
 <img src="https://i.scdn.co/image/ab6765630000ba8a563ebb538d297875b10114b7" width="200" height="200"/>
-<img src="https://m.media-amazon.com/images/M/MV5BMjNjYjJkYTYtYjI5Zi00NWE4LWFiZjItMjM0N2VlZjgxY2U0XkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_.jpg" width="200" height="200"/>
+<img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/rogan-experience-juice-lili.jpg" width="200" height="200"/>
 <img src="https://www.httotw.com/favicon.ico" width="200" height="200"/>
 </p>
 
