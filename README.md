@@ -1,5 +1,4 @@
-![Header](https://raw.githubusercontent.com/amerwafiy/amerwafiy/main/readme_header.png "Header")
-<img alt="Header" src="https://raw.githubusercontent.com/amerwafiy/amerwafiy/main/readme_header.png" width = "1000" height = "800"/>
+<img alt="Header" src="https://raw.githubusercontent.com/amerwafiy/amerwafiy/main/readme_header.png" width = "1000" height = "500"/>
 ## Hi there! I'm Amer and welcome to my github page! 👋
 
 ### About Me:
