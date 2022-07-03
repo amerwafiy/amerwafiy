@@ -43,10 +43,8 @@
 
 <figure class="quote">
   <blockquote>
-    Reading is more efficient when at rest. Audio is more efficient when in motion.
+    Reading is more efficient when at rest. Audio is more efficient when in motion. - Naval Ravikant
   </blockquote>
-  <figcaption>
-    &mdash; Naval Ravikant</figcaption>
 </figure>
 
 
