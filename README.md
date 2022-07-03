@@ -1,4 +1,4 @@
-<img alt="Banner" src="https://www.canva.com/design/DAFFXXya4Xc/-l_OWehBDk-5X1PuB1jW9g/view?utm_content=DAFFXXya4Xc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
+<img alt="Banner" src="https://www.canva.com/design/DAFFXXya4Xc/-l_OWehBDk-5X1PuB1jW9g/view?utm_content=DAFFXXya4Xc&utm_campaign=designshare&utm_medium=link&utm_source=viewer"/>
 ## Hi there! I'm Amer and welcome to my github page! 👋
 
 ### About Me:
