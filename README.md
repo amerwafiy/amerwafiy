@@ -3,7 +3,7 @@
 ## Hi there! I'm Amer and welcome to my github page! 👋
 
 ### About Me:
-- Data Scientist with experiences in ML predictions, social media sentiment analyses, building web apps & automation system as well as developing analytics features for internal and external stakeholders.
+- Data Scientist with experiences in deploying real-world LLM applications, ML predictions, social media sentiment analyses, building web apps & automation system as well as developing analytics features for internal and external stakeholders.
 - Graduated from The University of Auckland 🇳🇿 in Bachelor of Science (Data Science).
 
 ### Achievements (to date):
