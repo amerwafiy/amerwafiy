@@ -59,7 +59,6 @@
 <img src="https://i.scdn.co/image/ab6765630000ba8a563ebb538d297875b10114b7" width="160" height="160"/>
 <img src="https://i.scdn.co/image/ab6765630000ba8a233f95c70bf4beb9ad0fdfd9" width="160" height="160"/>
 <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/rogan-experience-juice-lili.jpg" width="160" height="160"/>
-<img src="https://www.httotw.com/favicon.ico" width="160" height="160"/>
 </p>
 
 ### Contact Me:
